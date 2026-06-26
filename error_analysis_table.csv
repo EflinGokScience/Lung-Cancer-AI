@@ -1,0 +1,39 @@
+file,true_class,predicted_class,confidence
+/content/final_dataset/test/adenocarcinoma/d1_adenocarcinoma (146).png,adenocarcinoma,squamous,0.39550775
+/content/final_dataset/test/adenocarcinoma/d1_adenocarcinoma (147).png,adenocarcinoma,squamous,0.5211219
+/content/final_dataset/test/adenocarcinoma/d1_adenocarcinoma (167).png,adenocarcinoma,normal,0.41097128
+/content/final_dataset/test/adenocarcinoma/d1_adenocarcinoma (211).png,adenocarcinoma,squamous,0.45683774
+/content/final_dataset/test/adenocarcinoma/d1_adenocarcinoma (247).png,adenocarcinoma,squamous,0.5785829
+/content/final_dataset/test/adenocarcinoma/d1_adenocarcinoma (304).png,adenocarcinoma,squamous,0.39214277
+/content/final_dataset/test/adenocarcinoma/d1_adenocarcinoma (307).png,adenocarcinoma,squamous,0.63920206
+/content/final_dataset/test/adenocarcinoma/d1_adenocarcinoma (72).png,adenocarcinoma,squamous,0.4730071
+/content/final_dataset/test/adenocarcinoma/d1_adenocarcinoma (86).png,adenocarcinoma,squamous,0.53313184
+/content/final_dataset/test/adenocarcinoma/d1_adenocarcinoma (96).png,adenocarcinoma,squamous,0.5650514
+/content/final_dataset/test/adenocarcinoma/d2_000109 (2).png,adenocarcinoma,squamous,0.45894396
+/content/final_dataset/test/adenocarcinoma/d2_000115 (8).png,adenocarcinoma,squamous,0.53313184
+/content/final_dataset/test/adenocarcinoma/d2_000116 (9).png,adenocarcinoma,squamous,0.5752622
+/content/final_dataset/test/adenocarcinoma/d2_000119 (4).png,adenocarcinoma,squamous,0.5650514
+/content/final_dataset/test/adenocarcinoma/d2_000126 (6).png,adenocarcinoma,large_cell,0.42417556
+/content/final_dataset/test/adenocarcinoma/d2_000132 (8).png,adenocarcinoma,squamous,0.44842565
+/content/final_dataset/test/adenocarcinoma/d2_000149 (4).png,adenocarcinoma,squamous,0.5592577
+/content/final_dataset/test/adenocarcinoma/d2_000149 (7).png,adenocarcinoma,large_cell,0.42206413
+/content/final_dataset/test/adenocarcinoma/d2_000151 (5).png,adenocarcinoma,squamous,0.48575506
+/content/final_dataset/test/adenocarcinoma/d2_000156 (4).png,adenocarcinoma,large_cell,0.5439861
+/content/final_dataset/test/adenocarcinoma/d2_000158 (3).png,adenocarcinoma,large_cell,0.58130395
+/content/final_dataset/test/adenocarcinoma/d2_000160 (6).png,adenocarcinoma,squamous,0.543775
+/content/final_dataset/test/adenocarcinoma/d2_000161 (5).png,adenocarcinoma,squamous,0.41630524
+/content/final_dataset/test/adenocarcinoma/d2_000164 (5).png,adenocarcinoma,squamous,0.4999249
+/content/final_dataset/test/adenocarcinoma/d2_000173 (7).png,adenocarcinoma,squamous,0.4730071
+/content/final_dataset/test/adenocarcinoma/d2_000177 (4).png,adenocarcinoma,squamous,0.48941427
+/content/final_dataset/test/large_cell/d1_large cell carcinoma (109).png,large_cell,adenocarcinoma,0.51257235
+/content/final_dataset/test/large_cell/d1_large cell carcinoma (27).png,large_cell,adenocarcinoma,0.4541552
+/content/final_dataset/test/large_cell/d1_large cell carcinoma (46).png,large_cell,adenocarcinoma,0.45185477
+/content/final_dataset/test/large_cell/d1_large cell carcinoma (68).png,large_cell,adenocarcinoma,0.62858844
+/content/final_dataset/test/large_cell/d1_large cell carcinoma (8).png,large_cell,adenocarcinoma,0.44892928
+/content/final_dataset/test/normal/d2_22.png,normal,large_cell,0.4257249
+/content/final_dataset/test/squamous/d1_squamous cell carcinoma (105).png,squamous,adenocarcinoma,0.4840651
+/content/final_dataset/test/squamous/d1_squamous cell carcinoma (124).png,squamous,adenocarcinoma,0.48111138
+/content/final_dataset/test/squamous/d1_squamous cell carcinoma (189).png,squamous,adenocarcinoma,0.67612004
+/content/final_dataset/test/squamous/d1_squamous cell carcinoma (193).png,squamous,adenocarcinoma,0.52402884
+/content/final_dataset/test/squamous/d1_squamous cell carcinoma (255).png,squamous,adenocarcinoma,0.5349043
+/content/final_dataset/test/squamous/d1_squamous cell carcinoma (258).png,squamous,adenocarcinoma,0.50372535
